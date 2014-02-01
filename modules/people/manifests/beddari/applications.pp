@@ -15,7 +15,10 @@ class people::beddari::applications {
   $homebrew_packages = [
     'tree',
     'nmap',
-    'tmux'
+    'tmux',
+    'mobile-shell',
+    'midnight-commander',
+    'chruby'
   ]
 
   ## Declare all Homebrew packages at once
